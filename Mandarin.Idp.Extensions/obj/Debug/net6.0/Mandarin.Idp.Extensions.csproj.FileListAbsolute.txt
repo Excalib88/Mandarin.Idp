@@ -1,0 +1,15 @@
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\bin\Debug\net6.0\Mandarin.Idp.Extensions.deps.json
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\bin\Debug\net6.0\Mandarin.Idp.Extensions.dll
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\bin\Debug\net6.0\Mandarin.Idp.Extensions.pdb
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\Mandarin.Idp.Extensions.csproj.AssemblyReference.cache
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\Mandarin.Idp.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\Mandarin.Idp.Extensions.AssemblyInfoInputs.cache
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\Mandarin.Idp.Extensions.AssemblyInfo.cs
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\Mandarin.Idp.Extensions.csproj.CoreCompileInputs.cache
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\Mandarin.Idp.Extensions.dll
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\refint\Mandarin.Idp.Extensions.dll
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\Mandarin.Idp.Extensions.pdb
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\ref\Mandarin.Idp.Extensions.dll
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\bin\Debug\net6.0\Mandarin.Idp.Contracts.dll
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\bin\Debug\net6.0\Mandarin.Idp.Contracts.pdb
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Extensions\obj\Debug\net6.0\Mandarin.Idp.Extensions.csproj.CopyComplete

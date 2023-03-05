@@ -1,0 +1,12 @@
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\bin\Debug\net6.0\Mandarin.Idp.Contracts.deps.json
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\bin\Debug\net6.0\Mandarin.Idp.Contracts.dll
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\bin\Debug\net6.0\Mandarin.Idp.Contracts.pdb
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\obj\Debug\net6.0\Mandarin.Idp.Contracts.csproj.AssemblyReference.cache
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\obj\Debug\net6.0\Mandarin.Idp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\obj\Debug\net6.0\Mandarin.Idp.Contracts.AssemblyInfoInputs.cache
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\obj\Debug\net6.0\Mandarin.Idp.Contracts.AssemblyInfo.cs
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\obj\Debug\net6.0\Mandarin.Idp.Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\obj\Debug\net6.0\Mandarin.Idp.Contracts.dll
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\obj\Debug\net6.0\refint\Mandarin.Idp.Contracts.dll
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\obj\Debug\net6.0\Mandarin.Idp.Contracts.pdb
+C:\Projects\Mandarin.Idp\Mandarin.Idp.Contracts\obj\Debug\net6.0\ref\Mandarin.Idp.Contracts.dll
